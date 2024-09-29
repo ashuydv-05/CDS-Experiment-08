@@ -2,11 +2,11 @@
 #AIM:- To study and implement C++ multidimensional arrays (matrices)<br>
 
 
-Software Used:- VS code
+## Software Used:- VS code
 
-Theory:-
+## Theory:-
 A multidimensional array in C++ is an array of arrays that enables tabular data storage. A 2D array, for instance, can be shown as a matrix with rows and columns. A 3x4 matrix is created when it is stated with multiple sets of square brackets, such as {int matrix[3][4];}. Two indices—one for the row and one for the column—are used to access each element. Similar to this, 3D arrays like {int cube[2][3][4];{ add a dimension. These arrays are helpful for displaying intricate data structures like tables, grids, and matrices. Performance with large multidimensional arrays depends on effective memory management and access patterns.
-Code:
+## Code:
 ```
 //Ashu Yadav 23070123154
 #include <iostream>
@@ -123,9 +123,13 @@ int main() {
     return 0;
 }
 ```
-OUTPUT:
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/a6bbfc36-501f-48d0-811e-4c6787f0e8f7)
+
+![image](https://github.com/user-attachments/assets/ec71cb21-64c2-4deb-9132-248f783a98c5)
 
 
-#Conclusion:<br>
+
+# Conclusion:<br>
 
 In this experiment we learnt to use the multidimensional arrays (matrix) and how to perform operations on them
